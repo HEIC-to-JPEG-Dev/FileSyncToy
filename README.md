@@ -10,7 +10,7 @@ File Sync ++ is designed for a modern Windows, but with the ethos that everythin
   
 * Security. File Sync ++'s files are stored in a common location (~Documents) and can optionaly be encrypted and compressed. This is an extension to ini files.
   
-* Native Windows development using C# and WinUI. No 3rd party libraries.
+* Native Windows development using C#, .Net 7, and WinUI for Desktop. No 3rd party libraries.
 
 # Progress
 
