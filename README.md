@@ -1,4 +1,4 @@
-# File Sync ++ - Check Issues for you feature needs.
+# File Sync ++ - Check Issues for your feature needs.
 
 A new Windows 10/11 file sync tool. If you have any requirements, suggestions, must have's, or want to ask about this project - use the Github Issues - thanks.
 
