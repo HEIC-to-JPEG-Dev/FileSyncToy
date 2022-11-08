@@ -1,6 +1,6 @@
 # File Sync ++
 
-A new Wnidows 10/11 file sync tool.
+A new Windows 10/11 file sync tool.
 
 #Design Principles
 
