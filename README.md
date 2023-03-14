@@ -19,3 +19,5 @@ If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wik
 We're in active development...
 * :white_check_mark: [February 2023] Core design layout completed. 
 * :small_orange_diamond: [Current Task] .Net Sync Framework re-design, storage system, and options
+
+![image](https://user-images.githubusercontent.com/32410442/225002666-439d6cde-13b6-4b09-9e2c-3ee8e82c790b.png)
