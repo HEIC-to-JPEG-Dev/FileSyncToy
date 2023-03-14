@@ -2,6 +2,8 @@
 
 A new Windows 10/11 file sync tool. If you have any requirements, suggestions, must have's, or want to ask about this project - use the Github Issues - thanks.
 
+See the Wiki page for more information.
+
 # Design Principles
 
 If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wiki/SyncToy).
