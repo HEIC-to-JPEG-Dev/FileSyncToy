@@ -18,8 +18,11 @@ If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wik
 
 We're in active development...
 * :white_check_mark: [February 2023] Core design layout completed. 
-* :white_check_mark: [March 2023] File filters and enumeration complete
-* :small_orange_diamond: [Current Task] Preview (80% complete) and "Actions" (90% complete)
+* :white_check_mark: [March 2023] File filters and enumeration complete.
+* :white_check_mark: [March] Preview and Actions.
+* :small_orange_diamond: [Current Task] Running the Actions
+* :small_orange_diamond: [ToDo] Sync Metadata for handling changes between sync sessions
+* :small_orange_diamond: [ToDo] Test & Prepeare for release
 
 # Publishing
 
