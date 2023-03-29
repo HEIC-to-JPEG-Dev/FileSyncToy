@@ -35,7 +35,7 @@ The following features will be absent for the first release but added shortly af
 
 # Roadmap
 
-The first release will provide most of the functionality of the original and be the ground zero for future enhancements. The focus is to get a working SyncToy alternative to satisfy most people and then take requests for changes and enhancements; we also have a list the length of a CVS receipt of things planned - the priorities will change based on feedback. See the roadmap document for more details [Roadmap.md](https://github.com/HEIC-to-JPEG-Dev/FileSyncToy/blob/main/Roadmap.md)
+The first release will provide most of the functionality of the original and be the ground zero for future enhancements. The focus is to get a working SyncToy alternative to satisfy most people and then take requests for changes and enhancements; we also have a list the length of a CVS receipt of things planned - the priorities will change based on feedback. See the roadmap poll for the community [Roadmap Poll](https://github.com/HEIC-to-JPEG-Dev/FileSyncToy/discussions/7)
 
 # Some Screenshots
 
