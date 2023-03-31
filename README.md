@@ -27,15 +27,17 @@ We're in active development...
 # Publishing
 
 The app will be distributed via the Microsoft App Store and support x64 and ARM64 on Windows 10 and 11.
-The following features will be absent for the first release but added shortly after:
-* All folder Pairs: The ability to run multiple Left/Right jobs simultaneously.
-* Scheduling: We're still determining how this will be accomplished.
-* Logs: A record of what has happened.
-
 
 # Roadmap
 
-The first release will provide most of the functionality of the original and be the ground zero for future enhancements. The focus is to get a working SyncToy alternative to satisfy most people and then take requests for changes and enhancements; we also have a list the length of a CVS receipt of things planned - the priorities will change based on feedback. See the roadmap poll for the community [Roadmap Poll](https://github.com/HEIC-to-JPEG-Dev/FileSyncToy/discussions/7)
+The first release will provide most of the functionality of the original and be the ground zero for future enhancements. The focus is to get a working SyncToy alternative to satisfy most people and then take requests for changes and enhancements; we also have a list the length of a CVS receipt of things planned - the priorities will change based on feedback. See the roadmap poll for the community [Roadmap Poll](https://github.com/HEIC-to-JPEG-Dev/FileSyncToy/discussions/7).
+
+The following features that exist in SyncToy, will  be absent for the version 1.0 but added during version 1.x.
+* All folder Pairs: The ability to run multiple Left/Right jobs simultaneously.
+* Scheduling: We're still determining how this will be accomplished.
+* Logs: A record of what has happened.
+* SubFolder exclusion from folder pairs
+* Content checking for comparison
 
 # Some Screenshots
 
