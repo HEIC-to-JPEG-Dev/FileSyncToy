@@ -39,6 +39,8 @@ The following features that exist in SyncToy, will  be absent for the version 1.
 * Logs: A record of what has happened.
 * SubFolder exclusion from folder pairs
 * Content checking for comparison
+* Collisions, when a file is changed on the left and right of a sync pair
+* Drag and Drop, from File Explorer into the app for folder pairs
 
 # Some Screenshots
 
