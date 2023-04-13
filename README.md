@@ -20,13 +20,14 @@ We're in active development...
 * :white_check_mark: [February 2023] Core design layout completed. 
 * :white_check_mark: [March 2023] File filters and enumeration complete.
 * :white_check_mark: [March] Preview and Actions.
-* :small_orange_diamond: [Current Task] Running the Actions
-* :small_orange_diamond: [ToDo] Sync Metadata for handling changes between sync sessions
-* :small_orange_diamond: [ToDo] Test & Prepeare for release
+* :white_check_mark: [April] Running the Actions
+* :white_check_mark: [April] Sync Metadata for handling changes between sync sessions
+* :white_check_mark: [April] Test & Prepeare for release
+* :small_orange_diamond: [Current] Waiting on Microsoft
 
 # Publishing
 
-The app will be distributed via the Microsoft App Store and support x64 and ARM64 on Windows 10 and 11.
+The app is distributed via the Microsoft App Store and support x64 and ARM64 on Windows 10 and 11.
 
 # Roadmap
 
@@ -41,6 +42,8 @@ The following features that exist in SyncToy, will  be absent for the version 1.
 
 # Some Screenshots
 
-![image](https://user-images.githubusercontent.com/32410442/225571465-d13f1706-02ae-443f-81f4-dfcacf44340d.png)
-![image](https://user-images.githubusercontent.com/32410442/227699572-2ada0a4a-8d77-4f97-9e79-a2e0ef832af6.png)
+![2023-04-13 12_23_17-WinUI Desktop](https://user-images.githubusercontent.com/32410442/231760867-3c9fddd8-7bf8-4ded-b84d-d9d884e4b716.png)
+![2023-04-13 12_27_44-WinUI Desktop](https://user-images.githubusercontent.com/32410442/231760882-5c92c5c0-d838-4eb6-874b-f50d339f1194.png)
+![2023-04-13 12_27_58-WinUI Desktop](https://user-images.githubusercontent.com/32410442/231760899-2a09ce15-8a3f-419a-a3ab-e956cc2e8ad9.png)
+
 
