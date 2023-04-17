@@ -17,13 +17,8 @@ If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wik
 # Progress
 
 We're in active development...
-* :white_check_mark: [February 2023] Core design layout completed. 
-* :white_check_mark: [March 2023] File filters and enumeration complete.
-* :white_check_mark: [March] Preview and Actions.
-* :white_check_mark: [April] Running the Actions
-* :white_check_mark: [April] Sync Metadata for handling changes between sync sessions
-* :white_check_mark: [April] Test & Prepeare for release
-* :small_orange_diamond: [Current] Waiting on Microsoft
+* :white_check_mark: [April 2023] It's alive! [Microsoft App Store](https://www.microsoft.com/store/apps/9NC0TXT5ZM7R)
+* :small_orange_diamond: [Version 1.1] 
 
 # Publishing
 
