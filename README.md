@@ -18,7 +18,7 @@ If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wik
 
 We're in active development...
 * :white_check_mark: [April 2023] It's alive! [Microsoft App Store](https://www.microsoft.com/store/apps/9NC0TXT5ZM7R)
-* :small_orange_diamond: [Version 1.1] 
+* :small_orange_diamond: [Version 1.1] Improving the sync engine, currently 50% faster and uses 75% less memory, we expect to bring this update in June
 
 # Publishing
 
