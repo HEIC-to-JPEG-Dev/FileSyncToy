@@ -14,15 +14,15 @@ If you've never seen SyncToy, go have a look [here](https://en.wikipedia.org/wik
   
 * Native Windows development using C#, .Net 7, and WinUI for Desktop.
 
-# Progress
+# Updates
 
 We're in active development...
 * :white_check_mark: [April 2023] It's alive! [Microsoft App Store](https://www.microsoft.com/store/apps/9NC0TXT5ZM7R)
-* :small_orange_diamond: [Version 1.1] Improving the sync engine, currently 50% faster and uses 75% less memory, we expect to bring this update in June
+* :white_check_mark: [June 2023 - Version 1.1] Improved the sync engine, currently 50% faster and uses 75% less memory, and added user based file logging.
 
 # Publishing
 
-The app is distributed via the Microsoft App Store and support x64 and ARM64 on Windows 10 and 11.
+The app is distributed via the Microsoft App Store and supports x86, x64 and ARM64 on Windows 10 and 11.
 
 # Roadmap
 
