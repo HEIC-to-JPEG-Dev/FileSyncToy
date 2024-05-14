@@ -1,3 +1,8 @@
+# Update. June 2024
+
+The UI of FileSyncToy was deemed too close to the original. The original is Trademarked and a compromise needed to happen. This has now happened and development can continue. However, a redesign is required, this has been prototyped and is being implemented. We're taking this opportunity to update many of the internal components of the app so it will be faster and easier than ever, while still retaining the "essence" that is SyncToy.
+
+
 # FileSyncToy - A modern SyncToy with a nod to the past.
 
 A new Windows 10/11 file sync tool. If you have any requirements, suggestions, must have's, or want to ask about this project - use the GitHub Issues - thanks.
